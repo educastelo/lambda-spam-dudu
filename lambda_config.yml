@@ -1,6 +1,6 @@
 Parameters:
   # Name of the lambda function
-  lambda_name: lambda_name
+  lambda_name: lambda_spam_dudu
   # The size of the function /tmp directory in MB. 
   # The default value is 512, but can be any whole number between 512 and 10240 MB.
   storage: 512
